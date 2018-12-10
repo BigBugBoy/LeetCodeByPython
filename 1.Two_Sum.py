@@ -1,7 +1,10 @@
 # -*-coding:UTF-8 -*-
 # Author: Wangwenjun
 # CreateDate: 2018-12-9
+<<<<<<< HEAD
 # FinishDate: 2018-12-10
+=======
+>>>>>>> 9afef2fd1adaa83151adf2e8a1f3db466d5f00e8
 
 
 def twoSum(nums, target):
