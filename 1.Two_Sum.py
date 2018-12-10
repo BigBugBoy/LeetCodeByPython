@@ -1,7 +1,6 @@
 # -*-coding:UTF-8 -*-
 # Author: Wangwenjun
 # CreateDate: 2018-12-9
-# FinishDate: 2018-12-9
 
 
 def twoSum(nums, target):
