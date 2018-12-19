@@ -11,3 +11,5 @@
 4.Longest Substring Without Repeating Characters    2018.12.17    fail
 
 5.Reverse Interger    2018.12.19
+
+6.Palindrome Number    2018.12.19
